@@ -6,7 +6,7 @@
          Being able to drown out the rehearsal room, with the analog sound of a Fender Frontman. Share the tables
 with musicians, friends and other kinds of beautiful people. As well as, taste a sonata, of which
 allow travel; they are experiences of my passion for music.<br>
-         While by vocation, I invite you to visit and learn about the repositories provided in this [portfolio](https://gracious-ramanujan-427a39.netlify.app).
+         While by vocation, I invite you to visit and learn about the repositories provided in this <a href="https://gracious-ramanujan-427a39.netlify.app">portfolio</a>.
       </p>
       <h2 align="center">Skills</h2>
       <dl align="center">
