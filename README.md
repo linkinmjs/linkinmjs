@@ -2,8 +2,11 @@
    <body>
       <h2 align="center">Bio</h2>
       <p align="center">
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut <br>
-        labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.<br>
+        Roasting cumin, growing basil and long days with faithful companions, are some of the things that I point out as pleasant experiences in my previous profession as a cook.<br>
+         Being able to drown out the rehearsal room, with the analog sound of a Fender Frontman. Share the tables
+with musicians, friends and other kinds of beautiful people. As well as, taste a sonata, of which
+allow travel; they are experiences of my passion for music.<br>
+         While by vocation, I invite you to visit and learn about the repositories provided in this [portfolio](https://gracious-ramanujan-427a39.netlify.app).
       </p>
       <h2 align="center">Skills</h2>
       <dl align="center">
